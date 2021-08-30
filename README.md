@@ -7,7 +7,7 @@
   * Mon 2:30pm -- 4:15pm, MWW LT1
   * ESTR: Wed 2:30pm -- 3:15pm, MMW 702
 - Tutorials:
-  * Thu 4:30pm -- 5:15pm, MMW LT1
+  * Thu 4:30pm -- 6:15pm, MMW LT1
 
 ### Piazza
 - The Piazza page for this course is [here](https://piazza.com/cuhk.edu.hk/spring2021/csci4140/home).
