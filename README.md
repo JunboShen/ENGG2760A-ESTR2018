@@ -25,17 +25,18 @@ All questions should be posted on Piazza instead of using emails.
 ### Grading
 | Assessment item | Weight | 
 | :---------------- | :--- | 
-| Programming Assignments (x3) | 39% 
-| Programming Project | 30%  
-| Final Exam | 31%
+| Homework (weekly) | 30% 
+| Tutorial participation | 5%  
+| Midterm | 30%  
+| Final Exam | 35%
 
 ## Lecture schedule
 
 Slides are downloadable from **CUHK network** only.
 
-| Week | Date | Topic | Date | Topic |
+| Week | Date | Topic | Date (ESTR) | Topic (ESTR) |
 | :---------------- | :--- | :--- | :--- | :--- |
-| 1 | 1/13 | [Introduction](http://course.cse.cuhk.edu.hk/~csci4140/slides/1_Intro.pdf) | 1/14 | [Version control system](http://course.cse.cuhk.edu.hk/~csci4140/slides/2_Version-Control.pdf) 
+| 1 | 9/6 | [Introduction](http://course.cse.cuhk.edu.hk/~csci4140/slides/1_Intro.pdf), [Probability and counting] | 9/8 | [Random walk](http://course.cse.cuhk.edu.hk/~csci4140/slides/2_Version-Control.pdf) 
 
 
 ## Tutorial schedule
