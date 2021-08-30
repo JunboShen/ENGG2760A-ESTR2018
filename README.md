@@ -36,7 +36,7 @@ Slides are downloadable from **CUHK network** only.
 
 | Week | Date | Topic | Date (ESTR) | Topic (ESTR) |
 | :---------------- | :--- | :--- | :--- | :--- |
-| 1 | 9/6 | [Introduction](http://course.cse.cuhk.edu.hk/~csci4140/slides/1_Intro.pdf), [Probability and counting] | 9/8 | [Random walk](http://course.cse.cuhk.edu.hk/~csci4140/slides/2_Version-Control.pdf) 
+| 1 | 9/6 | [Introduction](http://course.cse.cuhk.edu.hk/~csci4140/slides/1_Intro.pdf), [Probability and counting]() | 9/8 | [Random walk](http://course.cse.cuhk.edu.hk/~csci4140/slides/2_Version-Control.pdf) 
 
 
 ## Tutorial schedule
