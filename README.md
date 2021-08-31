@@ -33,25 +33,20 @@ All questions should be posted on Piazza instead of using emails.
 
 ## Lecture schedule
 
-Slides are downloadable from **CUHK network** only.
-
 | Week | Date | Topic | Date (ESTR) | Topic (ESTR) |
 | :---------------- | :--- | :--- | :--- | :--- |
-| 1 | 9/6 | [Introduction](http://course.cse.cuhk.edu.hk/~csci4140/slides/1_Intro.pdf), [Probability and counting]() | 9/8 | [Random walk](http://course.cse.cuhk.edu.hk/~csci4140/slides/2_Version-Control.pdf) 
+| 1 | 9/6 | [Introduction](), [Probability and counting]() | 9/8 | [Random walk]() 
 
 
 ## Tutorial schedule
 
-Slides are downloadable from **CUHK network** only.
-
 | Week | Date | Topic | 
 | :---------------- | :--- | :--- |
-| 1 | 1/14 | [Git](http://course.cse.cuhk.edu.hk/~csci4140/tutorials/tutorial_1.pptx) |
+| 1 | 9/9 | Homework1 [problem set](), [solution]() |
 
 
 ## Assignments
 
 | Assignment | Deadline | 
 | :---------------- | :--- | 
-|[Assignment 2](http://course.cse.cuhk.edu.hk/~csci4140/assignments/CSCI4140_Assignment_2.pdf) | 23:59, March 18, 2021 HKT
-|[Assignment 3](http://course.cse.cuhk.edu.hk/~csci4140/assignments/CSCI4140_Assignment_3.pdf) | 23:59, April <s>18</s>**23**, 2021 HKT
+|[Assignment 3]() | 23:59, April <s>18</s>**23**, 2021 HKT
