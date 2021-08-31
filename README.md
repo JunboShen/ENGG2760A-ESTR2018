@@ -23,12 +23,13 @@ All questions should be posted on Piazza instead of using emails.
 | [Ding, Wenlong](mailto:wlding21@cse.cuhk.edu.hk) | TA |
 
 ### Grading
-| Assessment item | Weight | 
-| :---------------- | :--- | 
-| Homework (weekly) | 30% 
-| Tutorial participation | 5%  
-| Midterm | 30%  
-| Final Exam | 35%
+| Assessment item | ENGG Weight | ESTR Weight
+| :---------------- | :--- | :--- | 
+| Homework (weekly) | 30% | 20%
+| Tutorial participation | 5% | 0%
+| Midterm | 30%  | 30%
+| Final Exam | 35% | 30%
+| Project | 0% | 15%
 
 ## Lecture schedule
 
