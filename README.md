@@ -57,6 +57,8 @@ Click on the date to join the corresponding Zoom session or view the video recor
 
 ### Tutorial
 
+- ENGG 2769A: https://cuhk.zoom.us/j/97086176486?pwd=am1UeHdTQ2E4c0NnV0tkOGVKTWRidz09
+- ESTR 2018: https://cuhk.zoom.us/j/95358807449?pwd=aHdvUWRIR2EwSXhUUzZ2RzRWRHk0UT09
 | Week | Date | Topic | 
 | :---------------- | :--- | :--- |
 | 1 | 9/9 | Homework1: [problem set](), [solution]() |
