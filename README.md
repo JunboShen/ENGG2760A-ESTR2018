@@ -2,6 +2,9 @@
 
 ## Administrivia
 
+### Course description
+Probability is the mathematics that allows us to reason about situations that involve uncertainty. In this course we will learn how to model problems using probability and how to analyze them.
+
 ### Schedule
 - Lectures: 
   * Mon 2:30pm -- 4:15pm, MWW LT1
