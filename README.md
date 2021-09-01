@@ -10,7 +10,7 @@
   * Thu 4:30pm -- 6:15pm, MMW LT1
 
 ### Piazza
-- The Piazza page for this course is [here](https://piazza.com/cuhk.edu.hk/spring2021/csci4140/home).
+- The Piazza page for this course is [here](http://piazza.com/cuhk.edu.hk/fall2021/engg2760aestr2018/home).
 All questions should be posted on Piazza instead of using emails.
 
 ### Instructors
@@ -43,10 +43,3 @@ All questions should be posted on Piazza instead of using emails.
 | Week | Date | Topic | 
 | :---------------- | :--- | :--- |
 | 1 | 9/9 | Homework1 [problem set](), [solution]() |
-
-
-## Assignments
-
-| Assignment | Deadline | 
-| :---------------- | :--- | 
-|[Assignment 3]() | 23:59, April <s>18</s>**23**, 2021 HKT
