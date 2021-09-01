@@ -56,6 +56,9 @@ ESTR 2018 follows the same format as ENGG 2760A, but with additional readings an
 Projects can be done individually or with a partner. They will involve a short report and a presentation. The readings and exercises can be used as project leads, but you can feel free to choose your own topic in consultation with the course instructor or the TAs.
 
 ## Course policies
+- Special teaching arrangement for students who cannot enter HK:
+  * ENGG 2760A: recordings will be provided on this site after each lecture and tutorial. They will also be available on Blackboard.
+  * ESTR 2018: both live Zoom sessions and recordings will be provided on this site for each lecture and tutorial.
 - Homework and project: 
   * Submit via Blackboard. You are automatically enrolled in the Blackboard course. We will create entries specifically for each item, and they will close automatically after the deadline. Marks will be available by end of weekend also on Blackboard.
   * Submit PDF files only. Other file format will be marked as zero. You can handwrite and scan as PDF, or simply write your solution using [LaTeX](https://www.latex-project.org/) (All our homework and solutions are written in LaTeX).
