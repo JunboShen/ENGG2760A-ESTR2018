@@ -37,9 +37,9 @@ The primary reference for this course is [Introduction to Probability (2nd editi
 
 ## Lecture schedule
 
-| Week | Date | Topic | Date (ESTR) | Topic (ESTR) |
-| :---------------- | :--- | :--- | :--- | :--- |
-| 1 | 9/6 | [Introduction](), [Probability and counting]() | 9/8 | [Random walk]() 
+| Week | Date | Topic | Material | Date (ESTR) | Topic (ESTR) |
+| :---------------- | :--- | :--- | :--- | :--- | :--- |
+| 1 | 9/6 | [Introduction](), [Probability and counting]() | §1.1, 1.6 | 9/8 | [Random walk]() 
 
 
 ## Tutorial schedule
