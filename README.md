@@ -8,7 +8,7 @@
   * ESTR: Wed 2:30pm -- 3:15pm, MMW 702
 - Tutorials:
   * Thu 4:30pm -- 6:15pm, MMW LT1
-  * Thu 4:30pm -- 6:15pm, WMY 406
+  * ESTR: Thu 4:30pm -- 6:15pm, WMY 406
 
 ### Piazza
 - The Piazza page for this course is [here](http://piazza.com/cuhk.edu.hk/fall2021/engg2760aestr2018/home).
