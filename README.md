@@ -48,7 +48,7 @@ The primary reference for this course is [Introduction to Probability (2nd editi
 
 | Week | Date | Topic | 
 | :---------------- | :--- | :--- |
-| 1 | 9/9 | Homework1 [problem set](), [solution]() |
+| 1 | 9/9 | Homework1: [problem set](), [solution]() |
 
 ## ESTR 2018 students
 ESTR 2018 follows the same format as ENGG 2760A, but with additional readings and exercises, and a project to be presented in the second half of the semester. The exams and quizzes will be the same as ENGG 2760A.
