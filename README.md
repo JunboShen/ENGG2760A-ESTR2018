@@ -60,10 +60,10 @@ Projects can be done individually or with a partner. They will involve a short r
   * Submit to our course site on Blackboard. You are automatically enrolled in the Blackboard course. We will create entries specifically for each item, and they will close automatically after the deadline.
   * Submit PDF files only. Other file format will be marked as zero.
   * No late submission. No exception.
-  * According to the University’s regulation, every assignment must accompany by a SIGNED DECLARATION of originality; submissions without such a declaration will receive zero mark.
-  * The declaration form is available for download from [here](http://www.cuhk.edu.hk/policy/academichonesty/Eng_htm_files_(2013-14)/declaration_en.doc).
+  * According to the University’s regulation, every assignment must be accompanied by a signed declaration of originality; submissions without it will receive zero mark.
+  * The declaration form is available [here](http://www.cuhk.edu.hk/policy/academichonesty/Eng_htm_files_(2013-14)/declaration_en.doc).
 - Lecture and tutorial:
   * Be on time. Set your mobile device to vibration/silient mode.
-  * Feel free to ask questions and raise comments during the class, but we can only entertain short questions and discussions in-class.
+  * Feel free to ask questions and raise comments during the lecture, but we can only entertain short questions and discussions in-class.
   * Longer and deeper discussion and questions can happen in tutorials.
   * Follow University's regulations on COVID, including use of masks, hand sanitization, seating with social distance, etc.
