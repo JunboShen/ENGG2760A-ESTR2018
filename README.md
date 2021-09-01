@@ -57,8 +57,8 @@ Projects can be done individually or with a partner. They will involve a short r
 
 ## Course policies
 - Homework and project: 
-  * Submit to our course site on Blackboard. You are automatically enrolled in the Blackboard course. We will create entries specifically for each item, and they will close automatically after the deadline.
-  * Submit PDF files only. Other file format will be marked as zero.
+  * Submit via Blackboard. You are automatically enrolled in the Blackboard course. We will create entries specifically for each item, and they will close automatically after the deadline. Marks will be available by end of weekend also on Blackboard.
+  * Submit PDF files only. Other file format will be marked as zero. You can handwrite and scan as PDF, or simply write your solution using [LaTeX](https://www.latex-project.org/) (All our homework and solutions are written in LaTeX).
   * No late submission. No exception.
   * According to the University’s regulation, every assignment must be accompanied by a signed declaration of originality; submissions without it will receive zero mark.
   * The declaration form is available [here](http://www.cuhk.edu.hk/policy/academichonesty/Eng_htm_files_(2013-14)/declaration_en.doc).
