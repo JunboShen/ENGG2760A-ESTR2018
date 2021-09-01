@@ -29,7 +29,7 @@ All questions should be posted on Piazza instead of using emails.
 ### Grading
 | Assessment item | ENGG Weight | ESTR Weight
 | :---------------- | :--- | :--- | 
-| Homework (weekly) | 30% | 20%
+| Homework* | 30% (5%x6) | 20% (4%x5)
 | Tutorial participation | 5% | 0%
 | Midterm | 30%  | 30%
 | Final Exam | 35% | 30%
