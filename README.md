@@ -16,7 +16,7 @@ All questions should be posted on Piazza instead of using emails.
 ### Instructors
 | Member | Role | Office Hours |
 | :---------------- | :--- | :----------- |
-| [Xu, Hong](https://henryhxu.github.io/) | Faculty | Th 1-3 pm, SHB 914. **By appointments only.**
+| [Xu, Hong (Henry)](https://henryhxu.github.io/) | Faculty | Th 1-3 pm, SHB 914. **By appointments only.**
 | [Zhong, Zhuowei (Allen)](mailto:zwzhong@cse.cuhk.edu.hk) | Head TA, ESTR TA | 
 | [Song, Qingyu](mailto:qysong21@cse.cuhk.edu.hk) | ESTR TA |
 | [Zhang, Jingze](mailto:jzzhang21@cse.cuhk.edu.hk) | TA |
