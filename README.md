@@ -11,7 +11,7 @@
   * ESTR: Thu 4:30pm -- 6:15pm, WMY 406
 
 ### Piazza
-- The Piazza page for this course is [here](http://piazza.com/cuhk.edu.hk/fall2021/engg2760aestr2018/home).
+The Piazza page for this course is [here](http://piazza.com/cuhk.edu.hk/fall2021/engg2760aestr2018/home).
 All questions should be posted on Piazza instead of using emails.
 
 ### Instructors
