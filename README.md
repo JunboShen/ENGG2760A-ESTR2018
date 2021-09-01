@@ -60,6 +60,7 @@ Projects can be done individually or with a partner. They will involve a short r
 - Special teaching arrangement for students who cannot enter HK:
   * ENGG 2760A: recordings will be provided on this site after each lecture and tutorial. They will also be available on Blackboard.
   * ESTR 2018: both live Zoom sessions and recordings will be provided on this site for each lecture and tutorial.
+  * Inform the course instructor, Henry, **immediately** when you can physically attend the class, so we can avoid the hassle of hybrid mode teaching.
 - Homework and project: 
   * Submit via Blackboard. You are automatically enrolled in the Blackboard course. We will create entries specifically for each item, and they will close automatically after the deadline. Marks will be available by end of weekend also on Blackboard.
   * Submit PDF files only. Other file format will be marked as zero. You can handwrite and scan as PDF, or simply write your solution using [LaTeX](https://www.latex-project.org/) (All our homework and solutions are written in LaTeX).
