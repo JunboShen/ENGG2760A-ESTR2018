@@ -32,17 +32,19 @@ All questions should be posted on Piazza instead of using emails.
 | Final Exam | 35% | 30%
 | Project | 0% | 15%
 
-## Textbook
+### Textbook
 The primary reference for this course is [Introduction to Probability (2nd edition)](http://athenasc.com/probbook.html) by Bertsekas and Tsitsiklis. Notes will be provided for additional material.
 
-## Lecture schedule
 
+## Schedules
+
+### Lecture
 | Week | Date | Topic | Material | Date (ESTR) | Topic (ESTR) |
 | :---------------- | :--- | :--- | :--- | :--- | :--- |
 | 1 | 9/6 | [Introduction](), [Probability and counting]() | §1.1, 1.6 | 9/8 | [Random walk]() 
 
 
-## Tutorial schedule
+### Tutorial
 
 | Week | Date | Topic | 
 | :---------------- | :--- | :--- |
