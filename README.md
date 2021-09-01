@@ -47,3 +47,16 @@ The primary reference for this course is [Introduction to Probability (2nd editi
 | Week | Date | Topic | 
 | :---------------- | :--- | :--- |
 | 1 | 9/9 | Homework1 [problem set](), [solution]() |
+
+## ESTR 2018 students
+ESTR 2018 follows the same format as ENGG 2760A, but with additional readings and exercises, and a project to be presented in the second half of the semester. The exams and quizzes will be the same as ENGG 2760A.
+
+Projects can be done individually or with a partner. They will involve a short report and a presentation. The readings and exercises can be used as project leads, but you can feel free to choose your own topic in consultation with the course instructor or the TAs.
+
+## Course policies
+- Homework and Project: 
+  * Submit to our course site on Blackboard. We will create entries specifically for each item, and they will close automatically after the deadline.
+  * Submit PDF files only. Other file format will be marked as zero.
+  * No late submission for whatever reason.
+  * According to the University’s regulation, every assignment must accompany by a SIGNED DECLARATION of originality; submissions without such a declaration will receive zero mark.
+  * The declaration form is available for download from: http://www.cuhk.edu.hk/policy/academichonesty/Eng_htm_files_(2013-14)/declaration_en.doc
