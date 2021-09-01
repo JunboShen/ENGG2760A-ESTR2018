@@ -54,9 +54,14 @@ ESTR 2018 follows the same format as ENGG 2760A, but with additional readings an
 Projects can be done individually or with a partner. They will involve a short report and a presentation. The readings and exercises can be used as project leads, but you can feel free to choose your own topic in consultation with the course instructor or the TAs.
 
 ## Course policies
-- Homework and Project: 
-  * Submit to our course site on Blackboard. We will create entries specifically for each item, and they will close automatically after the deadline.
+- Homework and project: 
+  * Submit to our course site on Blackboard. You are automatically enrolled in the Blackboard course. We will create entries specifically for each item, and they will close automatically after the deadline.
   * Submit PDF files only. Other file format will be marked as zero.
-  * No late submission for whatever reason.
+  * No late submission. No exception.
   * According to the University’s regulation, every assignment must accompany by a SIGNED DECLARATION of originality; submissions without such a declaration will receive zero mark.
-  * The declaration form is available for download from: http://www.cuhk.edu.hk/policy/academichonesty/Eng_htm_files_(2013-14)/declaration_en.doc
+  * The declaration form is available for download from [here](http://www.cuhk.edu.hk/policy/academichonesty/Eng_htm_files_(2013-14)/declaration_en.doc).
+- Lecture and tutorial:
+  * Be on time. Set your mobile device to vibration/silient mode.
+  * Feel free to ask questions and raise comments during the class, but we can only entertain short questions and discussions in-class.
+  * Longer and deeper discussion and questions can happen in tutorials.
+  * Follow University's regulations on COVID, including use of masks, hand sanitization, seating with social distance, etc.
