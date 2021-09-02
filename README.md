@@ -26,10 +26,6 @@ All questions should be posted on Piazza instead of using emails.
 | [Zhang, Jingze](mailto:jzzhang21@cse.cuhk.edu.hk) | TA |
 | [Ding, Wenlong](mailto:wlding21@cse.cuhk.edu.hk) | TA |
 
-### ESTR 2018 students
-ESTR 2018 follows the same format as ENGG 2760A, but with additional readings and exercises, and a project to be presented in the second half of the semester. The exams and quizzes will be the same as ENGG 2760A.
-
-Projects can be done individually or with a partner. They will involve a short report and a presentation. The readings and exercises can be used as project leads, but you can feel free to choose your own topic in consultation with the course instructor or the TAs.
 
 ### Grading
 | Assessment item | ENGG Weight | ESTR Weight
@@ -41,6 +37,11 @@ Projects can be done individually or with a partner. They will involve a short r
 | Project | 0% | 15%
 
 \*: Each week one homework will be released on Monday the latest. Submit your solutions by Wednesday midnight. We will discuss the homework on Thursday in tutorials, and release your marks by end of the week. For ENGG students, each homework is 5%; we will use your 6 highest marks as the total; for ESTR students, each homework is 4%; we will use your 5 highest marks as the total.
+
+### ESTR 2018 students
+ESTR 2018 follows the same format as ENGG 2760A, but with additional readings and exercises, and a project to be presented in the second half of the semester. The exams and quizzes will be the same as ENGG 2760A.
+
+Projects can be done individually or with a partner. They will involve a short report and a presentation. The readings and exercises can be used as project leads, but you can feel free to choose your own topic in consultation with the course instructor or the TAs.
 
 ### Textbook
 The primary reference for this course is [Introduction to Probability (2nd edition)](http://athenasc.com/probbook.html) by Bertsekas and Tsitsiklis. Notes will be provided for additional material.
