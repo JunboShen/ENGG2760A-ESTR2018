@@ -53,7 +53,7 @@ Click on the date to join the corresponding Zoom session or view the video recor
 ### Lecture
 | Week | Date | Topic | Material | Date (ESTR) | Topic (ESTR) |
 | :---------------- | :--- | :--- | :--- | :--- | :--- |
-| 1 | 9/6 | [Introduction](), [Probability and counting]() | §1.1, 1.6 | [9/8](https://cuhk.zoom.us/j/95446850628?pwd=RG5rV3AxNUIwa3JOTzY4dUVEY2VmUT09) | [Random walk]() 
+| 1 | 9/6 | Intro; [Probability and counting]() | §1.1, 1.6 | [9/8](https://cuhk.zoom.us/j/95446850628?pwd=RG5rV3AxNUIwa3JOTzY4dUVEY2VmUT09) | [Random walk]() 
 
 
 ### Tutorial
