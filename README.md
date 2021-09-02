@@ -21,7 +21,7 @@ All questions should be posted on Piazza instead of using emails.
 | Member | Role | Office Hours |
 | :---------------- | :--- | :----------- |
 | [Xu, Hong (Henry)](https://henryhxu.github.io/) | Faculty | Th 1-3 pm, SHB 914. **By appointments only.**
-| [Zhong, Zhuowei (Allen)](mailto:zwzhong@cse.cuhk.edu.hk) | Head TA, ESTR TA | 
+| [Zhong, Zhuowei (Allen)](mailto:zwzhong@cse.cuhk.edu.hk) | Head TA, ESTR TA | Fri 2-3 pm, SHB 1005. 
 | [Song, Qingyu](mailto:qysong21@cse.cuhk.edu.hk) | ESTR TA |
 | [Zhang, Jingze](mailto:jzzhang21@cse.cuhk.edu.hk) | TA |
 | [Ding, Wenlong](mailto:wlding21@cse.cuhk.edu.hk) | TA |
@@ -53,8 +53,19 @@ Click on the date to join the corresponding Zoom session or view the video recor
 ### Lecture
 | Week | Date | Topic | Material | Date (ESTR) | Topic (ESTR) |
 | :---------------- | :--- | :--- | :--- | :--- | :--- |
-| 1 | 9/6 | Intro; [Probability and counting]() | §1.1, 1.6 | [9/8](https://cuhk.zoom.us/j/95446850628?pwd=RG5rV3AxNUIwa3JOTzY4dUVEY2VmUT09) | [Random walk]() 
-
+| 1 | Sep 6 | Intro; [Probability and counting]() | §1.1, 1.6 | [Sep 8](https://cuhk.zoom.us/j/95446850628?pwd=RG5rV3AxNUIwa3JOTzY4dUVEY2VmUT09) | [Random walk]() 
+| 2 | Sep 13 | Axioms. Conditional probability| §1.2-1.3 | Sep 13 | Countable, uncountable, and measurable sets
+| 3 | Sep 20 | Bayes' rule. Independence | §1.4-1.5 | Sep 20 | Partial independence and secret sharing 
+| 4 | Sep 27 | Random variables| §2.1-2.4  | Sep 27 | Two-player zero-sum games
+| 5 | Oct 4 | Expectation, Variance, Joint PMFs| §2.4-2.5 | Oct 4 | Homework discussion
+| 6 | Oct 11 | Conditioning and independence| §2.6-2.7 | Oct 11 | Martingales and stopping times
+| 7 | Oct 18 | Continuous random variables| §3.1-3.3 | Oct 18 | Differential privacy
+| 8 | Oct 25 | Multiple continuous random variables| §3.4-3.5 | Oct 25 | Project briefings
+| 9 | Nov 1 | Continuous Bayes' rule, Derived RVs| §3.6, 4.1 | Nov 1 | Ramsey numbers
+| 10 | Nov 8  | Correlation, large deviations| §4.2, §5.1-5.2 | Nov 8 | Random unit vectors and quantum supremacy
+| 11 | Nov 15 | The central limit theorem| §5.3-5.5 | Nov 15 |  Population extinction
+| 12 | Nov 22 | TBD | | Nov 11 | ESTR Presentation 
+| 13 | Nov 29 | Review | | Nov 29 | ESTR Presentation 
 
 ### Tutorial
 
