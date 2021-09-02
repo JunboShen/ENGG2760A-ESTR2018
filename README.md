@@ -55,9 +55,9 @@ Click on the date to join the corresponding Zoom session or view the video recor
 | :---------------- | :--- | :--- | :--- | :--- | :--- |
 | 1 | Sep 6 | Intro; [Probability and counting]() | §1.1, 1.6 | [Sep 8](https://cuhk.zoom.us/j/95446850628?pwd=RG5rV3AxNUIwa3JOTzY4dUVEY2VmUT09) | [Random walk]() 
 | 2 | Sep 13 | Axioms. Conditional probability| §1.2-1.3 | Sep 15 | Countable, uncountable, and measurable sets
-| 3 | Sep 20 | Bayes' rule. Independence | §1.4-1.5 | Sep 22 | Partial independence and secret sharing 
-| 4 | Sep 27 | Random variables| §2.1-2.4  | Sep 29 | Two-player zero-sum games
-| 5 | Oct 4 | Expectation, Variance, Joint PMFs| §2.4-2.5 | Oct 6 | Homework discussion
+| 3 | Sep 20 | Bayes' rule. Independence | §1.4-1.5 | Sep 22 | The Day Following Mid-Autumn Festival  
+| 4 | Sep 27 | Random variables| §2.1-2.4  | Sep 29 | Partial independence and secret sharing
+| 5 | Oct 4 | Expectation, Variance, Joint PMFs| §2.4-2.5 | Oct 6 | Two-player zero-sum games
 | 6 | Oct 11 | Conditioning and independence| §2.6-2.7 | Oct 13 | Martingales and stopping times
 | 7 | Oct 18 | Continuous random variables| §3.1-3.3 | Oct 20 | Differential privacy
 | 8 | Oct 25 | Multiple continuous random variables| §3.4-3.5 | Oct 27 | Project briefings
@@ -65,7 +65,7 @@ Click on the date to join the corresponding Zoom session or view the video recor
 | 10 | Nov 8  | Correlation, large deviations| §4.2, §5.1-5.2 | Nov 10 | Random unit vectors and quantum supremacy
 | 11 | Nov 15 | The central limit theorem| §5.3-5.5 | Nov 17 |  Population extinction
 | 12 | Nov 22 | TBD | | Nov 24 | ESTR Presentation 
-| 13 | Nov 29 | Review | | Nov 31 | ESTR Presentation 
+| 13 | Nov 29 | Review | | Dec 1 | ESTR Presentation 
 
 ### Tutorial
 
