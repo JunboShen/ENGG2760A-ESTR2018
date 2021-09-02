@@ -55,7 +55,7 @@ Click on the date to join the corresponding Zoom session or view the video recor
 | :---------------- | :--- | :--- | :--- | :--- | :--- |
 | 1 | Sep 6 | Intro; [Probability and counting]() | §1.1, 1.6 | [Sep 8](https://cuhk.zoom.us/j/95446850628?pwd=RG5rV3AxNUIwa3JOTzY4dUVEY2VmUT09) | [Random walk]() 
 | 2 | Sep 13 | Axioms. Conditional probability| §1.2-1.3 | Sep 15 | Countable, uncountable, and measurable sets
-| 3 | Sep 20 | Bayes' rule. Independence | §1.4-1.5 | Sep 22 | The Day Following Mid-Autumn Festival  
+| 3 | Sep 20 | Bayes' rule. Independence | §1.4-1.5 | Sep 22 | No class (The Day Following Mid-Autumn Festival)  
 | 4 | Sep 27 | Random variables| §2.1-2.4  | Sep 29 | Partial independence and secret sharing
 | 5 | Oct 4 | Expectation, Variance, Joint PMFs| §2.4-2.5 | Oct 6 | Two-player zero-sum games
 | 6 | Oct 11 | Conditioning and independence| §2.6-2.7 | Oct 13 | Martingales and stopping times
