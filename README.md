@@ -3,7 +3,7 @@
 ## Recent announcements
 **Announcements are also made through Piazza and emailed to all students. We only keep a few recent announcements here.**
 
-- **Sep 3**: Zoom link for the first lecture is [here](https://cuhk.zoom.us/j/93911603235?pwd=VkdjWXovaFBPenozZUU1NlJsMTlKQT09), in case the central recording facility does not work for us. 
+- **Sep 3**: Zoom link for the first lecture is [here](https://cuhk.zoom.us/j/93911603235?pwd=VkdjWXovaFBPenozZUU1NlJsMTlKQT09), in case the central recording facility at MMW LT1 does not work for us. 
 
 ## Administrivia
 
