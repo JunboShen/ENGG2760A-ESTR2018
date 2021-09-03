@@ -48,7 +48,7 @@ The primary reference for this course is [Introduction to Probability (2nd editi
 
 
 ## Schedules
-Click on the date to join the corresponding Zoom session or view the video recording.
+Click on the date to join the corresponding Zoom session or view the video recording. Click on the topic to access the slides.
 
 ### Lecture
 | Week | Date | Topic | Material | Date (ESTR) | Topic (ESTR) |
