@@ -83,7 +83,7 @@ Click on the date to join the corresponding Zoom session or view the video recor
 
 
 ## Course policies
-- Special teaching arrangement for students who cannot enter HK:
+- *Special teaching arrangement* for students who cannot enter HK:
   * ENGG 2760A: recordings will be provided on this site after each lecture and tutorial. They will also be available on Blackboard.
   * ESTR 2018: both live Zoom sessions and recordings will be provided on this site for each lecture and tutorial.
   * Inform the course instructor, Henry, **immediately** when you can physically attend the class, so we can avoid the hassle of hybrid mode teaching.
