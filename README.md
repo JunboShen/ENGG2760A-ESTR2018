@@ -56,7 +56,7 @@ The primary reference for this course is [Introduction to Probability (2nd editi
 ## Schedules
 Click on the date to join the corresponding Zoom session or view the video recording. Click on the topic to access the slides.
 
-### Lecture
+### Lecture (subject to change, espcially ESTR topics)
 | Week | Date | Topic | Material | ESTR Date  | ESTR Topic |
 | :---------------- | :--- | :--- | :--- | :--- | :--- |
 | 1 | Sep 6 | Intro; [Probability and counting](lec/L01-Probability.pptx) | §1.1, 1.6 | [Sep 8](https://cuhk.zoom.us/j/95446850628?pwd=RG5rV3AxNUIwa3JOTzY4dUVEY2VmUT09) | [Random walk]() 
