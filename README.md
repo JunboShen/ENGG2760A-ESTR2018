@@ -66,7 +66,7 @@ Click on the date to join the corresponding Zoom session or view the video recor
 | 5 | Oct 4 | Expectation, Variance, Joint PMFs| §2.4-2.5 | Oct 6 | Two-player zero-sum games
 | 6 | Oct 11 | Conditioning and independence| §2.6-2.7 | Oct 13 | Martingales and stopping times
 | 7 | Oct 18 | Continuous random variables| §3.1-3.3 | Oct 20 | Differential privacy
-| 8 | Oct 25 | Multiple continuous random variables| §3.4-3.5 | Oct 27 | Project briefings
+| 8 | Oct 25 | **Midterm**; Multiple continuous random variables| §3.4-3.5 | Oct 27 | Project briefings
 | 9 | Nov 1 | Continuous Bayes' rule, Derived RVs| §3.6, 4.1 | Nov 3 | Ramsey numbers
 | 10 | Nov 8  | Correlation, large deviations| §4.2, §5.1-5.2 | Nov 10 | Random unit vectors and quantum supremacy
 | 11 | Nov 15 | The central limit theorem| §5.3-5.5 | Nov 17 |  Population extinction
