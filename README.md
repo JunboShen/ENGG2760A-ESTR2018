@@ -1,4 +1,10 @@
-# ENGG2760A/ESTR2018: Probability for Engineers
+# ENGG 2760A/ESTR 2018: Probability for Engineers
+
+## Recent announcements
+**Announcements are also made through Piazza and emailed to all students. We only keep a few recent announcements here.**
+
+- **Sep 3**: Zoom link for the first lecture is [here](https://cuhk.zoom.us/j/93911603235?pwd=VkdjWXovaFBPenozZUU1NlJsMTlKQT09), in case the central recording facility at MMW LT1 does not work. 
+- **Sep 3**: Special teaching arrangement info is [here](#course-policies).
 
 ## Administrivia
 
@@ -48,24 +54,24 @@ The primary reference for this course is [Introduction to Probability (2nd editi
 
 
 ## Schedules
-Click on the date to join the corresponding Zoom session or view the video recording.
+Click on the date to join the corresponding Zoom session or view the video recording. Click on the topic to access the slides.
 
-### Lecture
-| Week | Date | Topic | Material | Date (ESTR) | Topic (ESTR) |
+### Lecture (subject to change, espcially ESTR topics)
+| Week | Date | Topic | Material | ESTR Date  | ESTR Topic |
 | :---------------- | :--- | :--- | :--- | :--- | :--- |
-| 1 | Sep 6 | Intro; [Probability and counting]() | §1.1, 1.6 | [Sep 8](https://cuhk.zoom.us/j/95446850628?pwd=RG5rV3AxNUIwa3JOTzY4dUVEY2VmUT09) | [Random walk]() 
+| 1 | Sep 6 | Intro; [Probability and counting](lec/L01-Probability.pptx) | §1.1, 1.6 | [Sep 8](https://cuhk.zoom.us/j/95446850628?pwd=RG5rV3AxNUIwa3JOTzY4dUVEY2VmUT09) | Random walk 
 | 2 | Sep 13 | Axioms. Conditional probability| §1.2-1.3 | Sep 15 | Countable, uncountable, and measurable sets
-| 3 | Sep 20 | Bayes' rule. Independence | §1.4-1.5 | Sep 22 | Partial independence and secret sharing 
-| 4 | Sep 27 | Random variables| §2.1-2.4  | Sep 29 | Two-player zero-sum games
-| 5 | Oct 4 | Expectation, Variance, Joint PMFs| §2.4-2.5 | Oct 6 | Homework discussion
+| 3 | Sep 20 | Bayes' rule. Independence | §1.4-1.5 | Sep 22 | No class (The Day Following Mid-Autumn Festival)  
+| 4 | Sep 27 | Random variables| §2.1-2.4  | Sep 29 | Partial independence and secret sharing
+| 5 | Oct 4 | Expectation, Variance, Joint PMFs| §2.4-2.5 | Oct 6 | Two-player zero-sum games
 | 6 | Oct 11 | Conditioning and independence| §2.6-2.7 | Oct 13 | Martingales and stopping times
 | 7 | Oct 18 | Continuous random variables| §3.1-3.3 | Oct 20 | Differential privacy
-| 8 | Oct 25 | Multiple continuous random variables| §3.4-3.5 | Oct 27 | Project briefings
+| 8 | Oct 25 | **Midterm**; Multiple continuous random variables| §3.4-3.5 | Oct 27 | Project briefings
 | 9 | Nov 1 | Continuous Bayes' rule, Derived RVs| §3.6, 4.1 | Nov 3 | Ramsey numbers
 | 10 | Nov 8  | Correlation, large deviations| §4.2, §5.1-5.2 | Nov 10 | Random unit vectors and quantum supremacy
 | 11 | Nov 15 | The central limit theorem| §5.3-5.5 | Nov 17 |  Population extinction
 | 12 | Nov 22 | TBD | | Nov 24 | ESTR Presentation 
-| 13 | Nov 29 | Review | | Nov 31 | ESTR Presentation 
+| 13 | Nov 29 | Review | | Dec 1 | ESTR Presentation 
 
 ### Tutorial
 
@@ -74,11 +80,15 @@ Click on the date to join the corresponding Zoom session or view the video recor
 
 | Week | Due | Topic | ENGG recording | ESTR recording
 | :---------------- | :--- | :--- | :--- | :--- |
-| 1 | Sep 8 | Homework1: [problem set](https://henryhxu.github.io/assignment/21H01.pdf), [solution]() | | |
+<<<<<<< HEAD
+| 1 | Sep 8 | Homework1: [problem set](assignment/21H01.pdf), [solution]() | | |
+=======
+| 1 | 9/9 | Homework 1: [problem set](), [solution]() | | |
+>>>>>>> 966546a5151b4cc08af0891d866e2bfe2dede42a
 
 
 ## Course policies
-- Special teaching arrangement for students who cannot enter HK:
+- *Special teaching arrangement* for students who cannot enter HK:
   * ENGG 2760A: recordings will be provided on this site after each lecture and tutorial. They will also be available on Blackboard.
   * ESTR 2018: both live Zoom sessions and recordings will be provided on this site for each lecture and tutorial.
   * Inform the course instructor, Henry, **immediately** when you can physically attend the class, so we can avoid the hassle of hybrid mode teaching.
