@@ -72,9 +72,9 @@ Click on the date to join the corresponding Zoom session or view the video recor
 - ENGG 2769A: https://cuhk.zoom.us/j/97086176486?pwd=am1UeHdTQ2E4c0NnV0tkOGVKTWRidz09
 - ESTR 2018: https://cuhk.zoom.us/j/95358807449?pwd=aHdvUWRIR2EwSXhUUzZ2RzRWRHk0UT09
 
-| Week | Date | Topic | ENGG recording | ESTR recording
+| Week | Due | Topic | ENGG recording | ESTR recording
 | :---------------- | :--- | :--- | :--- | :--- |
-| 1 | 9/9 | Homework1: [problem set](), [solution]() | | |
+| 1 | Sep 8 | Homework1: [problem set](https://henryhxu.github.io/assignment/21H01.pdf), [solution]() | | |
 
 
 ## Course policies
