@@ -11,6 +11,8 @@
 ### Course description
 Probability is the mathematics that allows us to reason about situations that involve uncertainty. In this course we will learn how to model problems using probability and how to analyze them.
 
+> It ain't what you don't know that gets you into trouble. It's what you know for sure that just ain't so. ---Mark Twain
+
 ### Schedule
 - Lectures: 
   * Mon 2:30pm -- 4:15pm, MWW LT1
