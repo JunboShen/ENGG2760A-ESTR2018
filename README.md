@@ -83,7 +83,7 @@ Click on the date to join the corresponding Zoom session or view the video recor
 
 | Week | Due | Topic | ENGG recording | ESTR recording
 | :---------------- | :--- | :--- | :--- | :--- |
-| 1 | Sep 8 | Homework1: [problem set](assignment/21H01.pdf), [solution]() | | |
+| 1 | Sep 8 | Homework 1: [problem set](assignment/21H01.pdf), [solution]() | | |
 
 
 ## Course policies
