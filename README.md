@@ -62,7 +62,7 @@ Click on the date to join the corresponding Zoom session or view the video recor
 ### Lecture (subject to change, espcially ESTR topics)
 | Week | Date | Topic | Material | ESTR Date  | ESTR Topic |
 | :---------------- | :--- | :--- | :--- | :--- | :--- |
-| 1 | [Sep 6](https://cuhk.zoom.us/rec/share/KfoOy761W1jd20qXpN6waGCELMCwK7L97cJ_j6dJkB0nCsDSJH8H626wJfk7G90.xp_FvsVqiiAIAAIn) (passcode 3+k!5B0i) | Intro; [Probability and counting](lec/L01-Probability.pdf) | §1.1, 1.6 | [Sep 8](https://cuhk.zoom.us/j/95446850628?pwd=RG5rV3AxNUIwa3JOTzY4dUVEY2VmUT09) | [Random walk](lec/E01.pdf), [clean notes](E01-clean.pdf) 
+| 1 | [Sep 6](https://cuhk.zoom.us/rec/share/KfoOy761W1jd20qXpN6waGCELMCwK7L97cJ_j6dJkB0nCsDSJH8H626wJfk7G90.xp_FvsVqiiAIAAIn) (passcode 3+k!5B0i) | Intro; [Probability and counting](lec/L01-Probability.pdf) | §1.1, 1.6 | [Sep 8](https://cuhk.zoom.us/j/95446850628?pwd=RG5rV3AxNUIwa3JOTzY4dUVEY2VmUT09) | [Random walk](lec/E01.pdf) ([clean notes](lec/E01-clean.pdf)) 
 | 2 | Sep 13 | Axioms. Conditional probability| §1.2-1.3 | Sep 15 | Countable, uncountable, and measurable sets
 | 3 | Sep 20 | Bayes' rule. Independence | §1.4-1.5 | Sep 22 | No class (The Day Following Mid-Autumn Festival)  
 | 4 | Sep 27 | Random variables| §2.1-2.4  | Sep 29 | Partial independence and secret sharing
