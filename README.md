@@ -84,7 +84,7 @@ Click on the date to join the corresponding Zoom session or view the video recor
 
 | Week | Due | Topic | ENGG recording | ESTR recording
 | :---------------- | :--- | :--- | :--- | :--- |
-| 1 | Sep 8 | Homework 1: [problem set](assignment/21H01.pdf), [solution](assignment/21S01.pdf) | | [recording](https://cuhk.zoom.us/rec/share/h00aGv0tbYVQHCdJtx4E2ynAkcYM3rimBF1UknTUJ_3qukPhPTEJ29zi_ozx8-Y.29JL4sHc4zyCDbps?startTime=1631176905000)|
+| 1 | Sep 8 | Homework 1: [problem set](assignment/21H01.pdf), [solution](assignment/21S01.pdf) | | [recording](https://cuhk.zoom.us/rec/share/h00aGv0tbYVQHCdJtx4E2ynAkcYM3rimBF1UknTUJ_3qukPhPTEJ29zi_ozx8-Y.29JL4sHc4zyCDbps?startTime=1631176905000) (passcode cc=1YJSj)|
 
 
 ## Course policies
