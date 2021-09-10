@@ -89,7 +89,7 @@ Click on the date to view the video recording. Click on the topic to access the 
 
 ## Course policies
 - *Special teaching arrangement* for students who cannot enter HK:
-  * ENGG 2760A: recordings will be provided on this site after each lecture and tutorial. They will also be available on Blackboard.
+  * ENGG 2760A: both live Zoom sessions and recordings will be provided on this site for each lecture and tutorial. Recordings will also be available on Blackboard.
   * ESTR 2018: both live Zoom sessions and recordings will be provided on this site for each lecture and tutorial.
   * Inform the course instructor, Henry, **immediately** when you can physically attend the class, so we can avoid the hassle of hybrid mode teaching.
 - Homework and project: 
