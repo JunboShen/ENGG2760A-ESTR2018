@@ -64,7 +64,7 @@ Click on the date to view the video recording. Click on the topic to access the 
 | Week | Date | Topic | Material | ESTR Date  | ESTR Topic | Other |
 | :---------------- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | [Sep 6](https://cuhk.zoom.us/rec/share/KfoOy761W1jd20qXpN6waGCELMCwK7L97cJ_j6dJkB0nCsDSJH8H626wJfk7G90.xp_FvsVqiiAIAAIn) (passcode 3+k!5B0i) | Intro; [Probability and counting](lec/L01-Probability.pdf) | §1.1, 1.6 | [Sep 8]() | [Random walk](lec/E01.pdf) ([clean notes](lec/E01-clean.pdf)) | [Jupyter notebook](lec/E01.ipynb)
-| 2 | Sep 13 | [Axioms. Conditional probability](lec/L02.pptx)| §1.2-1.3 | Sep 15 | Countable, uncountable, and measurable sets | [Hilbert's paradox of the Grand Hotel](https://en.wikipedia.org/wiki/Hilbert's_paradox_of_the_Grand_Hotel)
+| 2 | [Sep 13](https://cuhk.zoom.us/rec/share/h7OJg3tTlWXSEdwB9gKnE-N9zNQTrcPEVLGQ392yPERWZ8C8CoO8j176STrrAYIF.hJb2EFkD7fjp5nMa) | [Axioms. Conditional probability](lec/L02.pptx)| §1.2-1.3 | Sep 15 | Countable, uncountable, and measurable sets | [Hilbert's paradox of the Grand Hotel](https://en.wikipedia.org/wiki/Hilbert's_paradox_of_the_Grand_Hotel)
 | 3 | Sep 20 | Bayes' rule. Independence | §1.4-1.5 | Sep 22 | No class (The Day Following Mid-Autumn Festival)  
 | 4 | Sep 27 | Random variables| §2.1-2.4  | Sep 29 | Partial independence and secret sharing
 | 5 | Oct 4 | Expectation, Variance, Joint PMFs| §2.4-2.5 | Oct 6 | Two-player zero-sum games
