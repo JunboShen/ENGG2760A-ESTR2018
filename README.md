@@ -85,7 +85,7 @@ Click on the date to view the video recording. Click on the topic to access the 
 | Week | Due | Topic | ENGG recording | ESTR recording
 | :---------------- | :--- | :--- | :--- | :--- |
 | 1 | Sep 8 | Homework 1: [problem set](assignment/21H01.pdf), [solution](assignment/21S01.pdf) | [recording](https://cuhk.zoom.us/rec/share/h00aGv0tbYVQHCdJtx4E2ynAkcYM3rimBF1UknTUJ_3qukPhPTEJ29zi_ozx8-Y.29JL4sHc4zyCDbps?startTime=1631176905000) (passcode cc=1YJSj) | [recording](https://cuhk.zoom.us/rec/share/h00aGv0tbYVQHCdJtx4E2ynAkcYM3rimBF1UknTUJ_3qukPhPTEJ29zi_ozx8-Y.29JL4sHc4zyCDbps?startTime=1631176905000) (passcode cc=1YJSj)|
-| 2 | Sep 15 | Homework 2: [problem set](assignment/21H02.pdf), [solution]() | [recording]() | [recording]() |
+| 2 | Sep 15 | Homework 2: [problem set](assignment/21H02.pdf), [solution]() | [recording](https://cuhk.zoom.us/rec/share/lFm_Z35kSdWQYf2NTV6RLhkW-Il_zFngJhT8XWYipIw9KlScznD4OAsXBCoztC4.ypWFIFxwwXBO27lb) (passcode y7qDj8#j) | [recording](https://cuhk.zoom.us/rec/share/UjPQwLOW9dNFPYcGjD4ie5jRFRZvSdq-Q0AXfQgRf8otmomZ-yj8csuITy1uqmsV.d79uEekQx4SLGiqt) (passcode m0I*.RUT) |
 
 
 ## Course policies
