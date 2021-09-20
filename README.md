@@ -3,10 +3,12 @@
 ## Recent announcements
 **Announcements are also made through Piazza and emailed to all students. We only keep a few recent announcements here.**
 
+- **Sep 20**: Lectures 2 and 3 notes are posted in PDF. Problems with the emojis in the pptx version should be fixed now.
 - **Sep 10**: Recurring Zoom links for ENGG 2760A lectures are added in [Schedule](#Schedule).
 - **Sep 8**: ESTR lecture 1 materials are posted.
 - **Sep 6**: Lecture 1 slides and recording are posted.
-- **Sep 3**: Special teaching arrangement info is [here](#course-policies).
+
+#- **Sep 3**: Special teaching arrangement info is [here](#course-policies).
 
 ## Administrivia
 
@@ -64,8 +66,8 @@ Click on the date to view the video recording. Click on the topic to access the 
 | Week | Date | Topic | Material | ESTR Date  | ESTR Topic | Other |
 | :---------------- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1 | [Sep 6](https://cuhk.zoom.us/rec/share/KfoOy761W1jd20qXpN6waGCELMCwK7L97cJ_j6dJkB0nCsDSJH8H626wJfk7G90.xp_FvsVqiiAIAAIn) (passcode 3+k!5B0i) | Intro; [Probability and counting](lec/L01-Probability.pdf) | §1.1, 1.6 | [Sep 8]() | [Random walk](lec/E01.pdf) ([clean notes](lec/E01-clean.pdf)) | [Jupyter notebook](lec/E01.ipynb)
-| 2 | [Sep 13](https://cuhk.zoom.us/rec/share/h7OJg3tTlWXSEdwB9gKnE-N9zNQTrcPEVLGQ392yPERWZ8C8CoO8j176STrrAYIF.hJb2EFkD7fjp5nMa) | [Axioms. Conditional probability](lec/L02.pptx) ([pdf](lec/L02.pdf))| §1.2-1.3 | [Sep 15](https://cuhk.zoom.us/rec/share/gKPVfLcQtzXulDYWEgzzfOXuz59IN9al4bROxx3_NtKhhOl1OaIh20iegM3cRSrc.XMMljZtfHtKlzw_y) | [Countable and uncountable sets](lec/E02-clean.pdf) | [Hilbert's paradox of the Grand Hotel](https://en.wikipedia.org/wiki/Hilbert's_paradox_of_the_Grand_Hotel)
-| 3 | Sep 20 | [Bayes' rule. Independence](lec/L03.pptx) ([pdf](lec/L03.pdf)) | §1.4-1.5 | Sep 22 | No class (The Day Following Mid-Autumn Festival)  
+| 2 | [Sep 13](https://cuhk.zoom.us/rec/share/h7OJg3tTlWXSEdwB9gKnE-N9zNQTrcPEVLGQ392yPERWZ8C8CoO8j176STrrAYIF.hJb2EFkD7fjp5nMa) | [Axioms. Conditional probability](lec/L02.pdf) | §1.2-1.3 | [Sep 15](https://cuhk.zoom.us/rec/share/gKPVfLcQtzXulDYWEgzzfOXuz59IN9al4bROxx3_NtKhhOl1OaIh20iegM3cRSrc.XMMljZtfHtKlzw_y) | [Countable and uncountable sets](lec/E02-clean.pdf) | [Hilbert's paradox of the Grand Hotel](https://en.wikipedia.org/wiki/Hilbert's_paradox_of_the_Grand_Hotel)
+| 3 | Sep 20 | [Bayes' rule. Independence](lec/L03.pdf) | §1.4-1.5 | Sep 22 | No class (The Day Following Mid-Autumn Festival)  
 | 4 | Sep 27 | Random variables| §2.1-2.4  | Sep 29 | Partial independence and secret sharing
 | 5 | Oct 4 | Expectation, Variance, Joint PMFs| §2.4-2.5 | Oct 6 | Two-player zero-sum games
 | 6 | Oct 11 | Conditioning and independence| §2.6-2.7 | Oct 13 | Martingales and stopping times
