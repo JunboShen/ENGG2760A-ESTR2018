@@ -8,7 +8,7 @@
 - **Sep 8**: ESTR lecture 1 materials are posted.
 - **Sep 6**: Lecture 1 slides and recording are posted.
 
-#- **Sep 3**: Special teaching arrangement info is [here](#course-policies).
+<!-- - **Sep 3**: Special teaching arrangement info is [here](#course-policies). -->
 
 ## Administrivia
 
