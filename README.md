@@ -70,7 +70,7 @@ Click on the date to view the video recording. Click on the topic to access the 
 | 3 | [Sep 20](https://cuhk.zoom.us/rec/share/X_wXAz2C_XhXbcMV9IkfhgpK-uyc_qtYapAtuk60n5n6UsPUkSENtGI3FaYM17nF.ewG-PNPUcukf5CVL) | [Bayes' rule. Independence](lec/L03.pdf) | §1.4-1.5 | Sep 22 | No class (The Day Following Mid-Autumn Festival)  
 | 4 | [Sep 27](https://cuhk.zoom.us/rec/share/CDHbvgWHln12xnRgKCOg25_mjg_sZXCvrcy-P9ltuyAqJXVD-PxuUwA_nt87JBkf.0gfEjiWvcLFEsSkz) | [Random variables](lec/L04.pdf) | §2.1-2.4  | [Sep 29](https://cuhk.zoom.us/rec/share/GUHOZAZigk-2T1B4Xhy1dAE6OcjluyYNOUHsWBD9C0Ljeo0mxnFXswek43u71Wax.Vk5SdKhI_y-5l1LY) | [Partial independence and secret sharing](lec/E03-clean.pdf) | [Wikipedia article](https://en.wikipedia.org/wiki/Shamir%27s_Secret_Sharing) on Shamir's secret sharing
 | 5 | [Oct 4](https://cuhk.zoom.us/rec/share/f9gHaKrZHkXJHhphvqe80aJMyMuflt3_3y_tPI8RmGAOu4McJXG8Kpa67InAF8Ul.Ikb9LmMWxawJ4OGq) | [Expectation, Variance, Joint PMFs](lec/L05.pdf) | §2.4-2.5 | [Oct 6](https://cuhk.zoom.us/rec/share/QIkvI2EcGkBHdvk8fPRv4fkL3rlUYHxJ_WUecgV0kZ7IKX5L1uZyGDONDVBPDK0.a0jEX8FxAp7mnjc2) | [Two-player zero-sum games](lec/E04-clean.pdf)
-| 6 | Oct 11 | Conditioning and independence| §2.6-2.7 | Oct 13 | Martingales and stopping times
+| 6 | Oct 11 | [Conditioning and independence](lec/L06.pdf)| §2.6-2.7 | Oct 13 | Martingales and stopping times
 | 7 | Oct 18 | Continuous random variables| §3.1-3.3 | Oct 20 | Differential privacy
 | 8 | Oct 25 | **Midterm**; Multiple continuous random variables| §3.4-3.5 | Oct 27 | Project briefings
 | 9 | Nov 1 | Continuous Bayes' rule, Derived RVs| §3.6, 4.1 | Nov 3 | Ramsey numbers
