@@ -73,11 +73,11 @@ Click on the date to view the video recording. Click on the topic to access the 
 | 5 | [Oct 4](https://cuhk.zoom.us/rec/share/f9gHaKrZHkXJHhphvqe80aJMyMuflt3_3y_tPI8RmGAOu4McJXG8Kpa67InAF8Ul.Ikb9LmMWxawJ4OGq) | [Expectation, Variance, Joint PMFs](lec/L05.pdf) | §2.4-2.5 | [Oct 6](https://cuhk.zoom.us/rec/share/QIkvI2EcGkBHdvk8fPRv4fkL3rlUYHxJ_WUecgV0kZ7IKX5L1uZyGDONDVBPDK0.a0jEX8FxAp7mnjc2) | [Two-player zero-sum games](lec/E04-clean.pdf)
 | 6 | [Oct 11](https://cuhk.zoom.us/rec/share/B7lR6akX0E_RGbvy_sndpEXdowu9zhtbYn-ZmxHc3puP6gdwIy65CWA4oF6afMkG.0gVmHi4jwCB4mv4b) | [Conditioning and independence](lec/L06.pdf)| §2.6-2.7 | [Oct 13](https://cuhk.zoom.us/rec/share/M8w_1xsvf20xOABoYqgS4hMjCndxi-jpPhHqGDtuYj5f12t2eY70-YKyaj3ycFzJ.1JsWm7JD6utIKhqB) | [Martingales and stopping times](lec/E05-clean.pdf)
 | 7 | Oct 18 | [Continuous random variables](lec/L07.pdf)| §3.1-3.3 | Oct 20 | Differential privacy
-| 8 | Oct 25 | **Midterm**; Multiple continuous random variables| §3.4-3.5 | Oct 27 | Project briefings
-| 9 | Nov 1 | Continuous Bayes' rule, Derived RVs| §3.6, 4.1 | Nov 3 | Ramsey numbers
-| 10 | Nov 8  | Correlation, large deviations| §4.2, §5.1-5.2 | Nov 10 | Random unit vectors and quantum supremacy
-| 11 | Nov 15 | The central limit theorem| §5.3-5.5 | Nov 17 |  Population extinction
-| 12 | Nov 22 | TBD | | Nov 24 | ESTR Presentation 
+| 8 | Oct 25 | **Midterm**|  | Oct 27 | Project briefings
+| 9 | Nov 1 | Multiple continuous random variables| §3.4-3.5 | Nov 3 | Ramsey numbers
+| 10 | Nov 8  | Continuous Bayes' rule, Derived RVs| §3.6, 4.1| Nov 10 | Random unit vectors and quantum supremacy
+| 11 | Nov 15 | Correlation, large deviations| §4.2, §5.1-5.2 | Nov 17 |  Population extinction
+| 12 | Nov 22 | The central limit theorem| §5.3-5.5 | Nov 24 | ESTR Presentation 
 | 13 | Nov 29 | Review | | Dec 1 | ESTR Presentation 
 
 ### Tutorial
