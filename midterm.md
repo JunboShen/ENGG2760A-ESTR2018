@@ -4,6 +4,6 @@
 
 - Time: Monday, Oct 25, 2:40pm, MMW LT-1. Arrive on/before 2:30pm.
 - Format: Closed-book. One approved calculator is allowed.
-- Coverage: Up to L06.
+- Coverage: Up to, including, L06.
 - Duration: 90 mins.
 - For those who need special teaching arrangement due to COVID, you need to do the midterm online. Separate announcements will follow soon. 
