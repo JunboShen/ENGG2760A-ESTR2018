@@ -3,10 +3,11 @@
 ## Recent announcements
 **Announcements are also made through Piazza and emailed to all students. We only keep a few recent announcements here.**
 
+- **Oct 18**: Midterm arrangement can be found [here]{midterm.md}. 
 - **Oct 17**: Practice midterm questions are posted [here](exam/PM.pdf). Solutions will be posted in a later time.
 - **Sep 20**: Lectures 2 and 3 notes are posted in PDF. Problems with the emojis in the pptx version should be fixed now.
 - **Sep 10**: Recurring Zoom links for ENGG 2760A lectures are added in [Schedule](#Schedule).
-- **Sep 8**: ESTR lecture 1 materials are posted.
+<!-- - **Sep 8**: ESTR lecture 1 materials are posted.-->
 <!-- - **Sep 6**: Lecture 1 slides and recording are posted.-->
 
 <!-- - **Sep 3**: Special teaching arrangement info is [here](#course-policies). -->
