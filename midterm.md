@@ -15,6 +15,6 @@
 - Join the regular lecture Zoom meeting with camera open. 
 - Get your student ID ready for admission and attendance taking. 
 - If you don’t have a scanner, get familiar with using your mobile phone camera to scan pages and create a single PDF file. You can also write your answers on iPad with note-taking software like "Notability" and export as PDF.
-- After the exam, upload the PDF file to Blackboard. The BB entry will remain open until 4:15pm. 
+- After the exam, upload the PDF file to Blackboard. The BB entry will remain open until 4:15pm. Make sure your student ID and name are on the first page of your solution.  
 - The examination starts at 2:40pm (HKT) on Oct 25, but you should log on to [Zoom meeting](https://cuhk.zoom.us/j/94672766083?pwd=NEt3L1JHUXo3ZENpZFFWUnVYQTZVdz09) on/before 2:20pm. 
-- Prepare sufficient sheets of blank pieces of paper. 
+- Prepare enough scratch paper. 
