@@ -46,12 +46,13 @@ All questions should be posted on Piazza instead of using emails.
 | Assessment item | ENGG Weight | ESTR Weight
 | :---------------- | :--- | :--- | 
 | Homework* | 30% (5%x6) | 20% (4%x5)
-| Tutorial participation | 5% | 0%
+| Tutorial participation** | 5% | 0%
 | Midterm | 30%  | 30%
 | Final Exam | 35% | 30%
 | Project | 0% | 15%
 
 \*: Each week one homework will be released on Monday the latest. Submit your solutions by Wednesday midnight. We will discuss the homework on Thursday in tutorials, and release your marks by end of the week. For ENGG students, each homework is 5%; we will use your 6 highest marks as the total; for ESTR students, each homework is 4%; we will use your 5 highest marks as the total.
+\*\*: Participate at least 8 tutorials to get the 5%.
 
 ### ESTR 2018 students
 ESTR 2018 follows the same format as ENGG 2760A, but with additional readings and exercises, and a project to be presented in the second half of the semester. The exams and quizzes will be the same as ENGG 2760A.
