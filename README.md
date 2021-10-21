@@ -4,7 +4,6 @@
 **Announcements are also made through Piazza and emailed to all students. We only keep a few recent announcements here.**
 
 - **Oct 21**: Practice midterm solution is [here](exam/PM_S.pdf). 
-- **Oct 17**: Practice midterm questions are posted [here](exam/PM.pdf). Solutions will be posted in a later time.
 - **Oct 20**: Online midterm arrangement instructions are posted [here](midterm.md). This is only for those under special teaching arrangement. 
 - **Oct 18**: Midterm arrangement can be found [here](midterm.md). 
 - **Oct 17**: Practice midterm questions are posted [here](exam/PM.pdf). Solutions will be posted in a later time.
