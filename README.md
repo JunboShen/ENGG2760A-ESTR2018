@@ -52,6 +52,7 @@ All questions should be posted on Piazza instead of using emails.
 | Project | 0% | 15%
 
 \*: Each week one homework will be released on Monday the latest. Submit your solutions by Wednesday midnight. We will discuss the homework on Thursday in tutorials, and release your marks by end of the week. For ENGG students, each homework is 5%; we will use your 6 highest marks as the total; for ESTR students, each homework is 4%; we will use your 5 highest marks as the total.
+
 \*\*: Participate at least 8 tutorials to get the 5%.
 
 ### ESTR 2018 students
