@@ -56,7 +56,7 @@ All questions should be posted on Piazza instead of using emails.
 ### ESTR 2018 students
 ESTR 2018 follows the same format as ENGG 2760A, but with additional readings and exercises, and a project to be presented in the second half of the semester. The exams and quizzes will be the same as ENGG 2760A.
 
-Projects can be done individually or with a partner. They will involve a short report and a presentation. The readings and exercises can be used as project leads, but you can feel free to choose your own topic in consultation with the course instructor or the TAs.
+Projects can be done individually or with at most 2 partners. They will involve a short report and a presentation. The readings and exercises can be used as project leads, but you can feel free to choose your own topic in consultation with the course instructor or the TAs.
 
 ### Textbook
 The primary reference for this course is [Introduction to Probability (2nd edition)](http://athenasc.com/probbook.html) by Bertsekas and Tsitsiklis. Notes will be provided for additional material.
