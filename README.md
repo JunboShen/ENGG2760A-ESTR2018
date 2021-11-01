@@ -100,6 +100,7 @@ Click on the date to view the video recording. Click on the topic to access the 
 | 6 | Oct 11 | Homework 6: [problem set](assignment/21H06.pdf), [solution](assignment/21S06.pdf) | [recording](https://cuhk.zoom.us/rec/share/_2F0SXkS3ITreQXbVEWPI3w4zCd7W8DbmBL6QGUDMiRakqN3JMC5jDGXeMoj4dNJ.pum9HcCESob79yrb) （passcode Yn3io+U!) | [recording](https://cuhk.zoom.us/rec/share/OyfM19Gs4K95UNGyxWmdmoSZ08xtkGvgvEeMrZwrfxjdVmif5vW1NqjkBgBDbCnE.NFhce5EKtcTyywY5) (passcode R$e%i7Z8) |
 | 7 | Oct 17 | Practice midterm: [exam paper](exam/PM.pdf), [solution](exam/PM_S.pdf) |
 | 8 | Oct 21 | Homework 7: [problem set](assignment/21H07.pdf), [solution](assignment/21S06.pdf) | [recording](https://cuhk.zoom.us/rec/share/0tl8baGugWhIgkqyB-1ei0aedYNYMw0fkGzr2xbbbbHcH1z9fggzRDG5Ohz6J_kt.PzgnrZML7f3AF93u) (passcode 6pdU9Em&) | [recording](https://cuhk.zoom.us/rec/share/ICFNJ9Z7KyZpEW7X_t6CbRPYkUUExss-pdCmdk9eOXW8OeXyWuaz-w7Og9F94Gox.5MkS46UgP8gZ9ZLp) (passcode Rb%8GRg^) |
+| 8 | Nov 4 | Homework 8: [problem set](assignment/21H08.pdf), [solution]() | [recording]()  | [recording]() |
 
 ## Course policies
 - *Special teaching arrangement* for students who cannot enter HK:
