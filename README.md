@@ -78,7 +78,7 @@ Click on the date to view the video recording. Click on the topic to access the 
 | 5 | [Oct 4](https://cuhk.zoom.us/rec/share/f9gHaKrZHkXJHhphvqe80aJMyMuflt3_3y_tPI8RmGAOu4McJXG8Kpa67InAF8Ul.Ikb9LmMWxawJ4OGq) | [Expectation, Variance, Joint PMFs](lec/L05.pdf) | §2.4-2.5 | [Oct 6](https://cuhk.zoom.us/rec/share/QIkvI2EcGkBHdvk8fPRv4fkL3rlUYHxJ_WUecgV0kZ7IKX5L1uZyGDONDVBPDK0.a0jEX8FxAp7mnjc2) | [Two-player zero-sum games](lec/E04-clean.pdf)
 | 6 | [Oct 11](https://cuhk.zoom.us/rec/share/B7lR6akX0E_RGbvy_sndpEXdowu9zhtbYn-ZmxHc3puP6gdwIy65CWA4oF6afMkG.0gVmHi4jwCB4mv4b) | [Conditioning and independence](lec/L06.pdf)| §2.6-2.7 | [Oct 13](https://cuhk.zoom.us/rec/share/M8w_1xsvf20xOABoYqgS4hMjCndxi-jpPhHqGDtuYj5f12t2eY70-YKyaj3ycFzJ.1JsWm7JD6utIKhqB) | [Martingales and stopping times](lec/E05-clean.pdf)
 | 7 | [Oct 18](https://cuhk.zoom.us/rec/share/nlKQa3uC0HUPcrKBQ24__9Oxdfv7S3VurUOkjb7KjQ_LGekSaVSu08hsRmoLnAP8.TJcce4LsBq7NHx9v) | [Continuous random variables](lec/L07.pdf)| §3.1-3.3 | [Oct 20](https://cuhk.zoom.us/rec/share/GJnYMEjRwSZOoooD2rrNJoETYxyFyshaPucOS7WcebyBsi9sYqs0hcwX_olrgCTC.yP5pG6L89jX7YEN2) | [Differential privacy](lec/E06-clean.pdf) | [Wikipedia article](https://en.wikipedia.org/wiki/Differential_privacy) on differential privacy
-| 8 | Oct 25 | **Midterm**|  | [Oct 27](https://cuhk.zoom.us/rec/share/zRxIfqFFiqPp-q338zrskNeikQy_oDwODcRGKYYQRb65_znDPKwllAuuS6maw-5K.aCisdWwHGoxN3mdF) | Project briefings
+| 8 | Oct 25 | **Midterm** [solution](exam/midterm_solution.pdf)|  | [Oct 27](https://cuhk.zoom.us/rec/share/zRxIfqFFiqPp-q338zrskNeikQy_oDwODcRGKYYQRb65_znDPKwllAuuS6maw-5K.aCisdWwHGoxN3mdF) | Project briefings
 | 9 | Nov 1 | [Multiple continuous random variables](lec/L08.pptx)| §3.4-3.5 | Nov 3 | Ramsey numbers
 | 10 | Nov 8  | Continuous Bayes' rule, Derived RVs| §3.6, 4.1| Nov 10 | Random unit vectors and quantum supremacy
 | 11 | Nov 15 | Correlation, large deviations| §4.2, §5.1-5.2 | Nov 17 |  Population extinction
@@ -100,6 +100,7 @@ Click on the date to view the video recording. Click on the topic to access the 
 | 6 | Oct 11 | Homework 6: [problem set](assignment/21H06.pdf), [solution](assignment/21S06.pdf) | [recording](https://cuhk.zoom.us/rec/share/_2F0SXkS3ITreQXbVEWPI3w4zCd7W8DbmBL6QGUDMiRakqN3JMC5jDGXeMoj4dNJ.pum9HcCESob79yrb) （passcode Yn3io+U!) | [recording](https://cuhk.zoom.us/rec/share/OyfM19Gs4K95UNGyxWmdmoSZ08xtkGvgvEeMrZwrfxjdVmif5vW1NqjkBgBDbCnE.NFhce5EKtcTyywY5) (passcode R$e%i7Z8) |
 | 7 | Oct 17 | Practice midterm: [exam paper](exam/PM.pdf), [solution](exam/PM_S.pdf) |
 | 8 | Oct 21 | Homework 7: [problem set](assignment/21H07.pdf), [solution](assignment/21S06.pdf) | [recording](https://cuhk.zoom.us/rec/share/0tl8baGugWhIgkqyB-1ei0aedYNYMw0fkGzr2xbbbbHcH1z9fggzRDG5Ohz6J_kt.PzgnrZML7f3AF93u) (passcode 6pdU9Em&) | [recording](https://cuhk.zoom.us/rec/share/ICFNJ9Z7KyZpEW7X_t6CbRPYkUUExss-pdCmdk9eOXW8OeXyWuaz-w7Og9F94Gox.5MkS46UgP8gZ9ZLp) (passcode Rb%8GRg^) |
+| 8 | Nov 4 | Homework 8: [problem set](assignment/21H08.pdf), [solution]() | [recording]()  | [recording]() |
 
 ## Course policies
 - *Special teaching arrangement* for students who cannot enter HK:
