@@ -80,7 +80,7 @@ Click on the date to view the video recording. Click on the topic to access the 
 | 7 | [Oct 18](https://cuhk.zoom.us/rec/share/nlKQa3uC0HUPcrKBQ24__9Oxdfv7S3VurUOkjb7KjQ_LGekSaVSu08hsRmoLnAP8.TJcce4LsBq7NHx9v) | [Continuous random variables](lec/L07.pdf)| §3.1-3.3 | [Oct 20](https://cuhk.zoom.us/rec/share/GJnYMEjRwSZOoooD2rrNJoETYxyFyshaPucOS7WcebyBsi9sYqs0hcwX_olrgCTC.yP5pG6L89jX7YEN2) | [Differential privacy](lec/E06-clean.pdf) | [Wikipedia article](https://en.wikipedia.org/wiki/Differential_privacy) on differential privacy
 | 8 | Oct 25 | **Midterm** [solution](exam/midterm_solution.pdf)|  | [Oct 27](https://cuhk.zoom.us/rec/share/zRxIfqFFiqPp-q338zrskNeikQy_oDwODcRGKYYQRb65_znDPKwllAuuS6maw-5K.aCisdWwHGoxN3mdF) | Project briefings
 | 9 | [Nov 1](https://cuhk.zoom.us/rec/share/Fh7fcXGWYE1-5wRG4pHwkK8pkM0hp0dpH4f8EFTUHDN5y6HK4TfPAjwhXLw0p72A.T9bHDUC1ba9_Xwtr) | [Multiple continuous random variables](lec/L08.pptx)| §3.4-3.5 | [Nov 3](https://cuhk.zoom.us/rec/share/AXvDi-nLk3EGE_ZOg6TaYwYFUZFiqQ0upe3oq87PT7xjBe4jTODh4TyTeuh3EihP.BAM49hb-L5QsBb7E) | [Ramsey numbers](lec/E07-clean.pdf) | [Wikipedia article on Ramsey number](https://en.wikipedia.org/wiki/Ramsey%27s_theorem)
-| 10 | Nov 8  | Continuous Bayes' rule, Derived RVs| §3.6, 4.1| Nov 10 | Random unit vectors and quantum supremacy
+| 10 | Nov 8  | [Continuous Bayes' rule, Derived RVs](lec/L09.pptx)| §3.6, 4.1| Nov 10 | Random unit vectors and quantum supremacy
 | 11 | Nov 15 | Correlation, large deviations| §4.2, §5.1-5.2 | Nov 17 |  Population extinction
 | 12 | Nov 22 | The central limit theorem| §5.3-5.5 | Nov 24 | ESTR Presentation 
 | 13 | Nov 29 | Review | | Dec 1 | ESTR Presentation 
